@@ -4,7 +4,7 @@ Aydın Adnan Menderes Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Ba
 
 ##  Şu Sıralar Ne Yapıyorum?
 *  Backend mimarilerini ve **Java & Spring Boot** ekosistemini derinlemesine öğreniyorum.
-*  Git/GitHub kaslarımı geliştiriyor ve terminal süreçlerine alışıyorum.
+*  Git/GitHub üzerinde kendimi geliştiriyor ve terminal süreçlerine alışıyorum.
 *  C ve Java dilleriyle algoritma mantığını pekiştiren interaktif projeler ve oyunlar geliştiriyorum.
 
 ## 🛠️ Kullandığım Teknolojiler & Araçlar
