@@ -33,4 +33,4 @@ Daha eski ve eğlenceli projeler: [Macera-Oyunu](https://github.com/xHyoka/Macer
 Staj ve part-time fırsatları için bana ulaşabilirsin.
 
 - LinkedIn: [Tunahan Çan](https://www.linkedin.com/in/tunahan-%C3%A7an-118854421)
-- E-posta: tunahancan.eng@gmail.com
+- E-posta:  tunahancan.eng@gmail.com
