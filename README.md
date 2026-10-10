@@ -1,8 +1,8 @@
-# Selam! 👋
+# Selam! 
 
 İzmir Kâtip Çelebi Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Java & Spring Boot ekosisteminde güvenli, ölçeklenebilir ve modern backend mimarileri geliştirmeye odaklanıyorum.
 
-## 🚀 Şu Sıralar Ne Yapıyorum?
+## Şu Sıralar Ne Yapıyorum?
 
 - **Spring AI ile çoklu ajan sistemi:** Ana ajan GPT-4o-mini, alt ajan Gemini Flash. Alt ajanlar tool calling ile veri araştırıyor.
 - **Spring Boot & JWT** mimarileri üzerinde çalışıyor, stateless kimlik doğrulama süreçleri geliştiriyorum.
@@ -17,7 +17,7 @@
 | [chat-App](https://github.com/xHyoka/chat-App) | Gerçek zamanlı, çok kanallı sohbet uygulaması. Kanal bazlı mesaj izolasyonu, online kullanıcı listesi, veritabanından mesaj geçmişi | Spring Boot, WebSocket / STOMP |
 | [student-crud-api](https://github.com/xHyoka/student-crud-api) | Katmanlı mimari, DTO, global exception handling ve validation içeren öğrenci CRUD API'si | Spring Boot, JPA |
 | [Beni-Seviyormusun](https://github.com/xHyoka/Beni-Seviyormusun) | Evet / Hayır cevaplarına göre etkileşimli yanıtlar veren eğlenceli Java arayüz uygulaması | Java |
-
+| [Macera-Oyunu](https://github.com/xHyoka/Macera-Oyunu) | Java ile geliştirilmiş konsol tabanlı metin RPG'si. Karakter sınıfları, tur tabanlı savaş, mağaza sistemi ve farklı haritalar | Java, OOP |
 ## 🛠️ Teknolojiler & Araçlar
 
 - **Diller:** Java, C, C#
